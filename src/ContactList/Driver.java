@@ -14,7 +14,7 @@ public class Driver {
 		System.out.println("                                  Welcome!!!");
 		
 		System.out.println("Name: Vikramjit Singh");
-		System.out.println("Student Id: 300138075");
+		System.out.println("Student Id: ");
 		
 		
 
